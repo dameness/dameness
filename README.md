@@ -19,9 +19,4 @@
   <img align = "center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div><br/>
 
-Sou estudante de Ciência da Computação e estagiário no IFSul.
-
-🛠 Atualmente desenvolvendo o [Back-end](https://github.com/dameness/abism-gui-backend) e o
-[Front-end](https://github.com/dameness/abism-gui-frontend) de uma interface de usuário para integração de modelos 
-de simulação aplicados à agricultura.
-
+Sou estudante de Ciência da Computação e estagiário Front-end.
