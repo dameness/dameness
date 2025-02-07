@@ -2,9 +2,9 @@
 
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-damiani-2a4729244/)
 
-Sou estudante de Ciência da Computação (5° semestre) e atualmente trabalho desenvolvendo uma aplicação e-commerce para distribuidoras utilizando React.
+Sou estudante de Ciência da Computação (6° semestre) e atualmente trabalho desenvolvendo uma aplicação e-commerce para distribuidoras utilizando React, PHP/Laravel e realizando consultas SQL.
 
-Experiência com Node.js e Next.js. 
+Experiência em projetos com Node.js/Nest e Next.js. 
 
 <div style = "display:inline-block"> 
   <img align = "center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
